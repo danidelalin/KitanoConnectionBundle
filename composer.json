@@ -1,5 +1,5 @@
 {
-    "name":         "undf/connection-bundle",
+    "name":         "danidelalin/connection-bundle",
     "description":  "Directed graph implementation to create any connection between two objects (ie. follower/following relation in a social network)",
     "keywords":     ["connection", "social", "friendship", "friends"],
     "type":         "symfony-bundle",
